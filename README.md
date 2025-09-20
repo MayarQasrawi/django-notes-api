@@ -29,8 +29,8 @@ It allows users to create, read, update, delete, and search notes.
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/MayarQasrawi/django-notes-api.git
+   cd notekeeping
    ```
 
 2. **Create virtual environment & activate**
