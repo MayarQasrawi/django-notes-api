@@ -3,7 +3,7 @@
 A simple **Note Keeping REST API** built with **Django REST Framework**.
 It allows users to create, read, update, delete, and search notes.
 
----
+
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ It allows users to create, read, update, delete, and search notes.
 * Pagination for listing notes
 * Django REST Framework browsable API
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -22,7 +22,7 @@ It allows users to create, read, update, delete, and search notes.
 * **SQLite / PostgreSQL** (default is SQLite, easy to swap to Postgres)
 * **Python Decouple** for `.env` management (optional)
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -60,7 +60,7 @@ It allows users to create, read, update, delete, and search notes.
    python manage.py runserver
    ```
 
----
+
 
 ## 📌 API Endpoints
 
@@ -87,11 +87,9 @@ It allows users to create, read, update, delete, and search notes.
 }
 ```
 
----
+
 
 ## 📖 Notes
 
 * By default, pagination returns **5 notes per page**. You can change it in `settings.py`.
 * The browsable API is enabled → visit endpoints in your browser to test easily.
-
----
